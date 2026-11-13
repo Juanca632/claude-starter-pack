@@ -1,0 +1,14 @@
+{
+  "name": "juanca632",
+  "description": "Juanca632's personal Claude Code plugins.",
+  "owner": {
+    "name": "Juanca632"
+  },
+  "plugins": [
+    {
+      "name": "starter-pack",
+      "description": "My usual skills and MCP servers for every new project.",
+      "source": "./plugins/starter-pack"
+    }
+  ]
+}
